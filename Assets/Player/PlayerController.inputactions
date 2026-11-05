@@ -103,6 +103,35 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Sprint",
+            "id": "e1229d88-e970-4214-b970-f69fea94a5ba",
+            "actions": [
+                {
+                    "name": "Sprint",
+                    "type": "Button",
+                    "id": "74b88646-bd3f-4de2-8c3c-dbe5eb328b2a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0a14bd62-6bca-4eba-bc59-95fe050bcdb1",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sprint",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
